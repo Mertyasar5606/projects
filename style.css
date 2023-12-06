@@ -26,6 +26,10 @@ nav{
     justify-content: space-between;
     margin-bottom: 30px;
 }
+.music-player img{
+    width: 15em;
+    height: 15rem;
+}
 nav .cricle{
     border-radius: 50%;
     width: 40px;
