@@ -59,7 +59,7 @@ nav .cricle{
 #progres{
     -webkit-appearance: none;
     width: 25rem;
-    height: 10px;
+    height: 6px;
     background-color: #f53192;
     border-radius: 4px;
     cursor: pointer;
